@@ -1,0 +1,1 @@
+# Ajax natif JS / Template
